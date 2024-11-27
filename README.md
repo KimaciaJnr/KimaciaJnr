@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort 6, pursuing a prestegoius Certficate  in Computer and Data Sceince. I'm also a certified Data Analytics engineer from Alx-Africa, completed in October, 2024. 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimaciajnr)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills and Tech Stack
 Python | SQL | PowerBI | Data Analysis | Visualization
 
