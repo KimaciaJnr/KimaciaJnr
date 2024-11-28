@@ -1,7 +1,9 @@
 ### Hi there 👋, Peter Ngugi
 ### Data Science & Machine Learning
 
-I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort 6, pursuing a prestegoius Certficate  in Computer and Data Science. I'm also a certified Data Analytics engineer from Alx-Africa, completed in October, 2024. 
+I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort 6, pursuing a prestegoius Certficate  in Computer and Data Science. I'm also a certified Data Analytics engineer from Alx-Africa, completed in October, 2024.
+
+_The future of technology is rooted in AI and big data, where machine learning drives unprecedented efficiency and innovation across industries. By leveraging predictive modeling and pattern recognition, we solve complex challenges and unlock transformative possibilities. My expertise focuses on designing impactful, data-driven solutions that address real-world problems with precision and scalability._
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimaciajnr&theme=dark&show_icons=true)
 
