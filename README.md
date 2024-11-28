@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Peter Ngugi
+### Data Science & Machine Learning
 
 I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort 6, pursuing a prestegoius Certficate  in Computer and Data Science. I'm also a certified Data Analytics engineer from Alx-Africa, completed in October, 2024. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimaciajnr&theme=dark&show_icons=true)
-## Skills and Tech Stack
-Python | SQL | PowerBI | Data Analysis | Visualization
 
-## Experience 
+**Skills**; Data Science | Machine Learning Python | SQL | PowerBI | Data Analysis | Visualization
+
+## 
 <!--
 **KimaciaJnr/KimaciaJnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
