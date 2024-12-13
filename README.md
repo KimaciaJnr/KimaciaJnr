@@ -14,7 +14,9 @@ _The future of technology is rooted in AI and big data, where machine learning d
 🖥️ Python | JS | CSS |HTML
 ⚛️ React
 📱React Native
-🚀 Data Science | Machine Learning | Visualization
+🚀 Data Science | Machine Learning | 
+
+*******************************************************
 
 - 🔭 I’m currently working on
 
@@ -24,9 +26,9 @@ _The future of technology is rooted in AI and big data, where machine learning d
   
      _Predictive Stepping, Documenting & Testing, Debugging, and TDD using LLMs_
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on
 
-    _Completing CI Checks.._
+    _Completing CI Checks_
 
 ### Reach me via->
 
