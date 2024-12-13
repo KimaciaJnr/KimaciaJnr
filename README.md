@@ -11,10 +11,10 @@ _The future of technology is rooted in AI and big data, where machine learning d
 
 ## Skills & Experience
 
-🖥️ Python | JS | CSS |HTML
+🖥️ Python | SQL | DAX Aggregations |Power BI | Hypothesis Testing
 ⚛️ React
 📱React Native
-🚀 Data Science | Machine Learning | 
+🚀 Data Science | Machine Learning |
 
 *******************************************************
 
