@@ -1,4 +1,6 @@
+
 # Hi there 👋, Peter Ngugi
+
 # Data Science & Machine Learning
 
 I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort 6, pursuing a prestegoius Certficate  in Computer and Data Science. I'm also a certified Data Analytics engineer from Alx-Africa, completed in October, 2024.
@@ -7,28 +9,29 @@ _The future of technology is rooted in AI and big data, where machine learning d
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimaciajnr&theme=dark&show_icons=true)
 
-##Skills & Experince
+## Skills & Experience
+
 🖥️ Python | JS | CSS |HTML
 ⚛️ React
 📱React Native
 🚀 Data Science | Machine Learning | Visualization
 
-![MachineLearningArtificialIntelligenceGIF](https://github.com/user-attachments/assets/78365d2f-305a-4b00-a186-97de68044ab9)
+- 🔭 I’m currently working on
 
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="20" height="20"/> GitHub
+    _Writing Doc Strings and running Unit Tests to better understand the behavior, strategy and implementation of functions_
 
+- 🌱 I’m currently learning
+  
+     _Predictive Stepping, Documenting & Testing, Debugging, and TDD using LLMs_
 
-<!--
-**KimaciaJnr/KimaciaJnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    _Completing CI Checks.._
+
+### Reach me via->
+
+[Linkedin](www.linkedin.com/in/pmngugi)
+
+[Email](mainangugi5@gmail.com)
+
+[GitHub](https://github.com/KimaciaJnr)
