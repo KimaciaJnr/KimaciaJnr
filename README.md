@@ -50,6 +50,6 @@ I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  wit
 ## 📫 Let's Connect
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/pmngugi)  
-- **Twitter**: [@YourTwitterHandle](..)  
+- **Twitter**: [@MyTwitterHandle](..)  
 - **Email**: [mainangugi5@gmail.com](mailto:mainangugi5@gmail.com)  
 - **Website**: [ngugikimacia.com](https://ngugikimacia.com)
