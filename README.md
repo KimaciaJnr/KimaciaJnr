@@ -1,45 +1,55 @@
 
 # Hi there 👋, Peter Ngugi
 
-# Data Science & Machine Learning
+        ..Welcome to my GitHub
 
-I'm Peter from Nairobi, Kenya, currently a student at MIT Emerging Talent cohort
- 6, pursuing a prestegoius Certficate  in Computer and Data Science. I'm also a
- certified Data Analytics engineer from Alx-Africa, completed in October, 2024.
+I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  with
+ a passion for uncovering insights and building scalable data solutions that make
+ an impact.
 
-_The future of technology is rooted in AI and big data, where machine learning
-drives unprecedented efficiency and innovation across industries. By leveraging
-predictive modeling and pattern recognition, we solve complex challenges and
-unlock transformative possibilities. My expertise focuses on designing impactful,
-data-driven solutions that address real-world problems with precision and scalability._
+## 🚀 About Me
 
-## Skills & Experience
+- 🔍 **Curious Analyst**: I enjoy exploring datasets to find meaningful patterns
+  and tell compelling stories through data and visualizations.  
+- 📚 **Lifelong Learner**: Constantly leveling up my skills in Python, SQL,
+  JavaScript, and data visualization tools.  
+- 🌍 **Community Mobilizer/ Advocate**: Dedicated to mentoring the younger
+  generation in my community, guiding them on life and career choices to help
+  them lead purposeful and fulfilling lives.
+  
+## 🔧 Skills & Tools
 
-🖥️ Python | SQL | DAX Aggregations | Power BI | Hypothesis Testing
+    ### **Data Analysis**  
 
-⚛️ React
+- Python (Pandas, Matplotlib, Seaborn, Jupiter Notebooks) *(Learning)*  
+- SQL (Database querying, DAX and optimization)  
+- Data Cleaning and Wrangling  
+- Exploratory Data Analysis (EDA)  
+- Power BI (Data Visualization)  
 
-🚀 Data Science & Machine Learning
+### **Soft Skills**  
 
-*******************************************************
+- Problem-Solving  
+- Communication & Storytelling
+- Critical Thinking
+- Adaptability & Collaboration
 
 - 🔭 I’m currently working on
 
-    _Writing Doc Strings and Running Unit Tests to better understand the behavior,
-    strategy and implementation of functions_
+    *Completing a Certificate in Computer and Data Science from the MIT Emerging
+    Talent Program*
 
 - 🌱 I’m currently learning
   
-     _Predictive Stepping, Documenting & Testing, Debugging, and TDD using LLMs_
+     *Predictive Stepping, Documenting & Testing, Debugging, and TDD using LLMs*
 
 - 👯 I’m looking to collaborate on
 
-    _Completing CI Checks_
+    *Completing Code reviews*
 
-### Reach me via->
+## 📫 Let's Connect
 
-[Linkedin](www.linkedin.com/in/pmngugi)
-
-[Email](mainangugi5@gmail.com)
-
-[GitHub](https://github.com/KimaciaJnr)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/pmngugi)  
+- **Twitter**: [@YourTwitterHandle](..)  
+- **Email**: [mainangugi5@gmail.com](mailto:mainangugi5@gmail.com)  
+- **Website**: [ngugikimacia.com](https://ngugikimacia.com)
