@@ -13,13 +13,14 @@ _The future of technology is rooted in AI and big data, where machine learning d
 
 ⚛️ React
 
-🚀 Data Science & Machine Learning 
+🚀 Data Science & Machine Learning
 
 *******************************************************
 
 - 🔭 I’m currently working on
 
-    _Writing Doc Strings and Running Unit Tests to better understand the behavior, strategy and implementation of functions_
+    _Writing Doc Strings and Running Unit Tests to better understand the behavior,
+    strategy and implementation of functions_
 
 - 🌱 I’m currently learning
   
