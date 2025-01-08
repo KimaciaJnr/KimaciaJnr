@@ -19,7 +19,7 @@ I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  wit
   
 ## 🔧 Skills & Tools
 
-    ### **Data Analysis**  
+### **Data Analysis**  
 
 - Python (Pandas, Matplotlib, Seaborn, Jupiter Notebooks) *(Learning)*  
 - SQL (Database querying, DAX and optimization)  
