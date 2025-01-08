@@ -34,6 +34,8 @@ I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  wit
 - Critical Thinking
 - Adaptability & Collaboration
 
+  *******************************************************************************************
+
 - 🔭 I’m currently working on
 
     *Completing a Certificate in Computer and Data Science from the MIT Emerging
