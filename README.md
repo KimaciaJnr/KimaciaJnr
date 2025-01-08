@@ -33,7 +33,7 @@ I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  wit
 - Communication & Storytelling
 - Critical Thinking
 - Adaptability & Collaboration
- 
+
 ## 🌱 Ongoing>>
 
 - 🔭 I’m currently working on
