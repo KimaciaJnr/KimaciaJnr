@@ -3,7 +3,7 @@
 
         ..Welcome to my GitHub
 
-I'm an aspiring **Data Scientist**, currently working as a Support Analyst,  with
+I'm an aspiring **Data Scientist**, currently working as a Support Quality Assurance Analyst,  with
  a passion for uncovering insights and building scalable data solutions that make
  an impact.
 
